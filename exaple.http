@@ -1,0 +1,8 @@
+PATCH http://localhost:3000/api/posts/64b76fcd519ad634da552a95
+content-type: application/json
+
+{
+    "id": "64b76fcd519ad634da552a95",
+    "title": "ajshvjhsx",
+    "content": "agvghxs"
+}
